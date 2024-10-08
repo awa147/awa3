@@ -4,7 +4,7 @@
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="GBK"/>
-    <property name="java.class.path" value="C:\Users\tianziqi\Desktop\works\report\new\target\test-classes;C:\Users\tianziqi\Desktop\works\report\new\target\classes;D:\apache-maven-repository\org\junit\jupiter\junit-jupiter-engine\5.4.0\junit-jupiter-engine-5.4.0.jar;D:\apache-maven-repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;D:\apache-maven-repository\org\junit\platform\junit-platform-engine\1.4.0\junit-platform-engine-1.4.0.jar;D:\apache-maven-repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;D:\apache-maven-repository\org\junit\platform\junit-platform-commons\1.4.0\junit-platform-commons-1.4.0.jar;D:\apache-maven-repository\org\junit\jupiter\junit-jupiter-api\5.4.0\junit-jupiter-api-5.4.0.jar;D:\apache-maven-repository\org\junit\jupiter\junit-jupiter\5.11.2\junit-jupiter-5.11.2.jar;D:\apache-maven-repository\org\junit\jupiter\junit-jupiter-params\5.11.2\junit-jupiter-params-5.11.2.jar;"/>
+    <property name="java.class.path" value="C:\Users\tianziqi\Desktop\works\report\new\target\test-classes;C:\Users\tianziqi\Desktop\works\report\new\target\classes;C:\Users\tianziqi\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.4.0\junit-jupiter-engine-5.4.0.jar;C:\Users\tianziqi\.m2\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\Users\tianziqi\.m2\repository\org\junit\platform\junit-platform-engine\1.4.0\junit-platform-engine-1.4.0.jar;C:\Users\tianziqi\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\tianziqi\.m2\repository\org\junit\platform\junit-platform-commons\1.4.0\junit-platform-commons-1.4.0.jar;C:\Users\tianziqi\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.4.0\junit-jupiter-api-5.4.0.jar;C:\Users\tianziqi\.m2\repository\org\junit\jupiter\junit-jupiter\5.11.2\junit-jupiter-5.11.2.jar;C:\Users\tianziqi\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.11.2\junit-jupiter-params-5.11.2.jar;"/>
     <property name="java.vm.vendor" value="Microsoft"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="CN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\bin"/>
-    <property name="sun.java.command" value="C:\Users\tianziqi\AppData\Local\Temp\surefire1923438830950769124\surefirebooter7222647776229469267.jar C:\Users\tianziqi\AppData\Local\Temp\surefire1923438830950769124 2024-10-08T17-30-50_735-jvmRun1 surefire5703149462331742135tmp surefire_05155589843193693847tmp"/>
+    <property name="sun.java.command" value="C:\Users\tianziqi\AppData\Local\Temp\surefire1578712286146876745\surefirebooter2392757275878508746.jar C:\Users\tianziqi\AppData\Local\Temp\surefire1578712286146876745 2024-10-08T17-57-46_874-jvmRun1 surefire13944181112825520158tmp surefire_010476603124060663428tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\tianziqi\Desktop\works\report\new\target\test-classes;C:\Users\tianziqi\Desktop\works\report\new\target\classes;D:\apache-maven-repository\org\junit\jupiter\junit-jupiter-engine\5.4.0\junit-jupiter-engine-5.4.0.jar;D:\apache-maven-repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;D:\apache-maven-repository\org\junit\platform\junit-platform-engine\1.4.0\junit-platform-engine-1.4.0.jar;D:\apache-maven-repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;D:\apache-maven-repository\org\junit\platform\junit-platform-commons\1.4.0\junit-platform-commons-1.4.0.jar;D:\apache-maven-repository\org\junit\jupiter\junit-jupiter-api\5.4.0\junit-jupiter-api-5.4.0.jar;D:\apache-maven-repository\org\junit\jupiter\junit-jupiter\5.11.2\junit-jupiter-5.11.2.jar;D:\apache-maven-repository\org\junit\jupiter\junit-jupiter-params\5.11.2\junit-jupiter-params-5.11.2.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\tianziqi\Desktop\works\report\new\target\test-classes;C:\Users\tianziqi\Desktop\works\report\new\target\classes;C:\Users\tianziqi\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.4.0\junit-jupiter-engine-5.4.0.jar;C:\Users\tianziqi\.m2\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\Users\tianziqi\.m2\repository\org\junit\platform\junit-platform-engine\1.4.0\junit-platform-engine-1.4.0.jar;C:\Users\tianziqi\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\tianziqi\.m2\repository\org\junit\platform\junit-platform-commons\1.4.0\junit-platform-commons-1.4.0.jar;C:\Users\tianziqi\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.4.0\junit-jupiter-api-5.4.0.jar;C:\Users\tianziqi\.m2\repository\org\junit\jupiter\junit-jupiter\5.11.2\junit-jupiter-5.11.2.jar;C:\Users\tianziqi\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.11.2\junit-jupiter-params-5.11.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\tianziqi"/>
     <property name="user.language" value="zh"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\tianziqi\AppData\Local\Temp\surefire1923438830950769124\surefirebooter7222647776229469267.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\tianziqi\AppData\Local\Temp\surefire1578712286146876745\surefirebooter2392757275878508746.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.10+7-LTS"/>
@@ -41,9 +41,10 @@
     <property name="file.encoding" value="GBK"/>
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
     <property name="java.vendor.version" value="Microsoft-8902769"/>
-    <property name="localRepository" value="D:\apache-maven-repository"/>
+    <property name="localRepository" value="C:\Users\tianziqi\.m2\repository"/>
     <property name="java.vendor.url.bug" value="https://github.com/microsoft/openjdk/issues"/>
     <property name="java.io.tmpdir" value="C:\Users\tianziqi\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2024.2.1"/>
     <property name="java.version" value="17.0.10"/>
     <property name="user.dir" value="C:\Users\tianziqi\Desktop\works\report\new"/>
     <property name="os.arch" value="amd64"/>
@@ -57,5 +58,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testAddition" classname="org.example.CalcTest" time="0.008"/>
+  <testcase name="testAddition" classname="org.example.CalcTest" time="0.009"/>
 </testsuite>
